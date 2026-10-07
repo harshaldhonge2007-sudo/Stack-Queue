@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0232-implement-queue-using-stacks](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0735-asteroid-collision/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0735-asteroid-collision/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,8 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
+| [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0735-asteroid-collision/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 <!---LeetCode Topics End-->
