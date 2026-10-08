@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0020-valid-parentheses/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0402-remove-k-digits](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0735-asteroid-collision/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0020-valid-parentheses/) | Easy |
+| [0402-remove-k-digits](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0402-remove-k-digits/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0402-remove-k-digits](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -53,4 +56,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0402-remove-k-digits](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0402-remove-k-digits/) | Medium |
 <!---LeetCode Topics End-->
