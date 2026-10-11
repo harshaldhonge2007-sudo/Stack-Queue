@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0456-132-pattern](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0735-asteroid-collision/) | Medium |
@@ -76,4 +78,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0456-132-pattern](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0456-132-pattern/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
