@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0155-min-stack](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0402-remove-k-digits](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0402-remove-k-digits/) | Medium |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0456-132-pattern](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0402-remove-k-digits/) | Medium |
 | [0456-132-pattern](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
@@ -97,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
