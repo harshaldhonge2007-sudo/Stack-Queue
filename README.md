@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Design
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0901-online-stock-span](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0901-online-stock-span/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0456-132-pattern](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Simulation
@@ -114,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0085-maximal-rectangle/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
