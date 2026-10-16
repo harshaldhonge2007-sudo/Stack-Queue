@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0901-online-stock-span/) | Medium |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0146-lru-cache/) | Medium |
 | [0496-next-greater-element-i](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -121,4 +123,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0901-online-stock-span/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
