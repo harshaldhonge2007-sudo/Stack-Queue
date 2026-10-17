@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0085-maximal-rectangle/) | Hard |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0011-container-with-most-water/) | Medium |
 | [0402-remove-k-digits](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0402-remove-k-digits/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -114,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0042-trapping-rain-water/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
