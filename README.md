@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0011-container-with-most-water/) | Medium |
 | [0042-trapping-rain-water](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0042-trapping-rain-water/) | Hard |
+| [0086-partition-list](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0086-partition-list/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0086-partition-list/) | Medium |
 | [0146-lru-cache](https://github.com/harshaldhonge2007-sudo/Stack-Queue/tree/main/0146-lru-cache/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
