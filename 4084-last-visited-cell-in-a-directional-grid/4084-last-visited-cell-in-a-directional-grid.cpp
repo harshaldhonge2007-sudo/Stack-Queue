@@ -1,33 +1,37 @@
 class Solution {
 public:
     vector<int> lastVisitedCell(vector<vector<char>>& grid) {
-        int m = grid.size();
-        int n = grid[0].size();
+        int n = grid.size();
+        int m = grid[0].size();
 
-        vector<int> arr = {0, 0};
+        int i = 0, j = 0;
+        int r = 0, c = 0;
 
-        unordered_map<int, unordered_map<int, bool>> mp;
-        mp[0][0] = true;
+        while (i < n && j < m && i >= 0 && j >= 0) {
 
-        while (true) {
-            int r = arr[0];
-            int c = arr[1];
+            if (grid[i][j] == '0') {
+                return {r, c};
+            }
 
-            int nr = r, nc = c;
+            r = i;
+            c = j;
 
-            if (grid[r][c] == 'L') nc--;
-            else if (grid[r][c] == 'R') nc++;
-            else if (grid[r][c] == 'U') nr--;
-            else if (grid[r][c] == 'D') nr++;
+            if (grid[i][j] == 'R') {
+                j++;
+            }
+            else if (grid[i][j] == 'L') {
+                j--;
+            }
+            else if (grid[i][j] == 'U') {
+                i--;
+            }
+            else {
+                i++;
+            }
 
-            if (nr < 0 || nr >= m || nc < 0 || nc >= n)
-                return arr;
-
-            if (mp[nr][nc])
-                return arr;
-
-            mp[nr][nc] = true;
-            arr = {nr, nc};
+            grid[r][c] = '0';
         }
+
+        return {r, c};
     }
 };
